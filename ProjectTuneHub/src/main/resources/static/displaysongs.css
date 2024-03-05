@@ -1,0 +1,45 @@
+body {
+	background-image:
+		url("https://akm-img-a-in.tosshub.com/indiatoday/images/story/202210/daniel_kwain_laud_rrr-sixteen_nine.jpg?VersionId=E3lsUvLZNWC1Sn_oXACCcJhrrYmN59OC&size=690:388");
+	background-size: cover;
+	background-repeat: round;
+	background-attachment: fixed;
+	
+    font-family: Arial, sans-serif;
+    background-color: white;
+    margin: 10;
+    padding: 10;
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    height: 100vh;
+  }
+
+  table {
+   
+    width: 70%;
+    border-collapse: collapse;
+    margin: 10px;
+  } 
+
+  th {
+    border: 2px solid black;
+    padding: 10px;
+    text-align: center;
+  }
+  td {
+    border: 2px solid black;
+    padding: 0px;
+    margin:10px;
+    text-align: left;
+/*     background-color: #f2f2f2;  */
+  }
+
+  th {
+    background-color: #f2f2f2;
+  } 
+  
+
+  audio {
+   
+  }
